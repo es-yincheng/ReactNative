@@ -1,0 +1,13 @@
+{
+  "name": "MyReactNativeApp",
+  "version": "0.0.1",
+  "description": "A framework for building native apps using React",
+  "license": "MIT",
+  "scripts": {
+    "start": "yarn react-native start"
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-native": "^0.59.8"
+  }
+}
